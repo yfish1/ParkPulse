@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/mapview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/search_button"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="-1dp"
+        >
+
+
+    </org.osmdroid.views.MapView>
+
+    <EditText
+        android:id="@+id/search_txtview"
+        android:layout_width="180dp"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginTop="3dp"
+        android:hint="@string/hint_text"
+        android:textColor="#F2AB39"
+        android:backgroundTint="#F2AB39"
+        />
+
+    <EditText
+        android:id="@+id/time_txtView"
+        android:layout_width="62dp"
+        android:layout_height="47dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="200dp"
+        android:layout_marginTop="3dp"
+        android:hint="Time"
+        android:textColor="#F2AB39"
+        android:backgroundTint="#F2AB39"/>
+
+    <Button
+        android:id="@+id/search_button"
+        android:layout_width="87dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="0dp"
+        android:layout_marginBottom="1dp"
+        android:text="Add"
+        android:textColor="#282C37"
+        android:background="#F2AB39"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/logout_fButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="#F2AB39"
+        android:clickable="true"
+        android:src="@drawable/logouticonn" />
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/addParking"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:src="@drawable/plusicon"
+       android:layout_above="@id/logout_fButton"
+        android:layout_alignParentRight="true"
+        android:backgroundTint="#F2AB39"
+        android:layout_margin="10dp"
+        />
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435572753417",
+    "project_id": "carapp-2fa29",
+    "storage_bucket": "carapp-2fa29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435572753417:android:4ee142d0bd8bf8650de4d8",
+        "android_client_info": {
+          "package_name": "be.ap.edu.mapsaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435572753417-5p64mrlps0jmbvubk9i0vis23udsl745.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIsS0KiI-RP_BRienje4GWEW1_YkW0JcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435572753417-5p64mrlps0jmbvubk9i0vis23udsl745.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

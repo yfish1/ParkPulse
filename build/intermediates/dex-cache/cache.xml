@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_34a8d965668fbab806a1ea696e2fa2e405cb18b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8e315e655ccb32227b93073cf82d0e011c474fe0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/.android/build-cache/164495ee27afd030d462d28869416d9c42f275fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecf20dfd65363eda7ee4f82a70b0ad8fe3b76616/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/.android/build-cache/4a029a392700f91f585a432454ed932fccabbcdd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8bbd365ad0844126f3c3714700fbd888b36cfda">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb0fa1382c95f63a03939c3fb11c0a1b8b33a4f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a31048451b4d56ca479268d04e532eec6b7a85a2">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_90db54de2943aa287450cc99c0c48ca1c4ef8df7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_1739644b1fa1dfa12402dedf78d13fe0d48949f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philippepossemiers/.android/build-cache/164495ee27afd030d462d28869416d9c42f275fe/output/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/philippepossemiers/Documents/Dev/Android/MapSaver/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b50e13e3fd441d0507c3e3c0c00ceefc649100f0/classes.dex" />
+    </item>
+
+</items>
