@@ -4,8 +4,6 @@ The ParkPulse application is a community-driven solution enabling neighbors to e
 
 ## Key Features
 
-  User management
-
    **User Management**: Seamless registration and user profiles allowing for convenient adjustments to personal details such as passwords and addresses.
    **Task Execution**: Data management integrated with cloud storage (Firebase) ensures the secure handling and storage of information.
    
