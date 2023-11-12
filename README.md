@@ -4,14 +4,15 @@ The ParkPulse application is a community-driven solution enabling neighbors to e
 
 ## Key Features
 
-   > **User Management**: Seamless registration and user profiles allowing for convenient adjustments to personal details such as passwords and addresses.
+    **User Management**: Seamless registration and user profiles allowing for convenient adjustments to personal details such as passwords and addresses.
 
-   > **Task Execution**: Data management integrated with cloud storage (Firebase) ensures the secure handling and storage of information.
+    **Task Execution**: Data management integrated with cloud storage (Firebase) ensures the secure handling and storage of information.
    
 
 ## Functionalities
 
    **Cloud Data Storage**: All data is securely stored in the cloud, utilizing Firebase's robust infrastructure.
+   
    **Real-Time Mapping**: Visual representation on a map displaying the exact locations of cars preparing to move, accompanied by scheduled timings
 
 The ParkPulse application serves as a practical tool for local communities, fostering convenience and coordination among neighbors regarding car movements. By harnessing technology to connect users and streamline communication, this app simplifies the process of managing parking logistics within neighborhoods.
